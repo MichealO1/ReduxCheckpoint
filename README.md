@@ -17,23 +17,15 @@ Edit a task
 
 Source code for React redux todo app
 
-## Running the finished code
+## Running the todo app
 
-Clone the repo and run the following:
+The todoapp code is located in its own folder. To get it:
 
-- cd final
+- cd todoapp
 - npm install
 - npm start
 
 **NOTE:** The API must be running in order for the todoapp to work together with the API. Seee "Running the API" below
-
-## Running the todo app
-
-The starter code is located in its own folder. To get it:
-
-- cd starter
-- npm install
-- npm start
 
 ## Running the API
 
